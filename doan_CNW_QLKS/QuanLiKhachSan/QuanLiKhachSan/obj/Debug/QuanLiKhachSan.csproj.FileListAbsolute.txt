@@ -1,0 +1,127 @@
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_DangNhap.resources
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Main.resources
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TaiKhoan.resources
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+C:\Users\DELL\Desktop\C#\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Phong.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_DangNhap.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_HuongDan.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_KhachHang.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Main.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Phong.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_SDDichVu.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TaiKhoan.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_ThuePhong.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TraPhong.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TroGiup.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_VatDung.resources
+D:\App laucher\Thuc-tap-Nhom-master\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_DangNhap.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_HuongDan.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_KhachHang.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Main.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Phong.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_SDDichVu.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TaiKhoan.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_ThuePhong.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TraPhong.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TroGiup.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_VatDung.resources
+F:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_DangNhap.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_HuongDan.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_KhachHang.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Main.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Phong.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_SDDichVu.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TaiKhoan.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_ThuePhong.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TraPhong.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TroGiup.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_VatDung.resources
+H:\.Net\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_DangNhap.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_HuongDan.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_KhachHang.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Main.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Phong.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_SDDichVu.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TaiKhoan.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_ThuePhong.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TraPhong.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TroGiup.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_VatDung.resources
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+E:\Do_An\dotNet\TaiLieu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_HoaDon.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_DangNhap.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_HuongDan.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_KhachHang.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Main.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Phong.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_SDDichVu.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TaiKhoan.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_ThuePhong.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TraPhong.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TroGiup.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_VatDung.resources
+E:\Do_An\dotNet\TaiLieu\DA_NET\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_DangNhap.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_HuongDan.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_KhachHang.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Main.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_Phong.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_SDDichVu.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TaiKhoan.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_ThuePhong.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TraPhong.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_TroGiup.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Views.fr_VatDung.resources
+C:\Users\Admin\Desktop\doan_CNW_QLKS\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
